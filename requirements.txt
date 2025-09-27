@@ -1,0 +1,7 @@
+scapy
+pandas
+matplotlib
+scikit-learn
+joblib
+streamlit
+reportlab
